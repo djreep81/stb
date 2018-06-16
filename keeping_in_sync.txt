@@ -1,0 +1,7 @@
+
+git remote add upstream https://github.com/nothings/stb.git
+git fetch upstream
+git pull upstream master
+
+#then push up to github 
+git push 
