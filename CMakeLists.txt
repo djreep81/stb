@@ -1,3 +1,4 @@
+cmake_minimum_required(VERSION 4.2)
 PROJECT(stb)
 install(FILES "stb_image.h"   DESTINATION include/stb)
 install(FILES "stb_vorbis.c"   DESTINATION include/stb)
